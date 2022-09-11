@@ -1,0 +1,41 @@
+header li{
+    list-style-type: none;
+}
+
+header ul{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header img{
+    width: 100px;
+    border-radius: 10px;
+    margin: 15px;
+    margin-left: 100px;
+}
+
+header #login-button button{
+    margin-right: 100px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: right;
+    border: 0;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: darkgrey;
+}
+
+footer li{
+    list-style-type: none;
+}
+
+footer ul{
+    border-top: 2px solid black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
