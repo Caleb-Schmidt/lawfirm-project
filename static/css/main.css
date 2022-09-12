@@ -1,3 +1,10 @@
+
+main .row container {
+    display: grid;
+    grid-template-columns: auto, auto;
+    grid-template-rows: auto;
+}
+
 header li{
     list-style-type: none;
 }
