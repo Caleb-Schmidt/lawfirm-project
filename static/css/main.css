@@ -1,4 +1,26 @@
 
+#placeholder {
+    width: 200px;
+    height: 200px;
+}
+#folders{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+.box_1 {
+    padding: 20px;
+}
+.oldphone {
+    height: 250px;
+    width: 500px;
+}
+.box2{
+    background-color: lightgray;
+    padding: 20px;
+}
+
+
 main .row container {
     display: grid;
     grid-template-columns: auto, auto;
@@ -46,3 +68,4 @@ footer ul{
     display: flex;
     justify-content: space-evenly;
 }
+
